@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, Puedes llamarme JosueJürgen</h1>
 <h3 align="center">Soy un apasionado en Programación y Administrador de Redes</h3>
 
-- 💬 Ask me about **HTML, CSSS, SWIFT**
+- 💬 Preguntame sobre **HTML, CSSS, SWIFT**
 
-- 📫 How to reach me **josuejurgencc@gmail.com**
+- 🖥️ SO **MacOS, Windows, Linux/Ubuntu**
+
+- 📫 Puedes escribirme a:  **josuejurgencc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
