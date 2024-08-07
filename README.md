@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Puedes llamarme JosueJürgen</h1>
 <h3 align="center">Soy un apasionado en Programación y Administrador de Redes</h3>
 
-- 💬 Preguntame sobre **HTML, CSSS, SWIFT**
+- 💬 Preguntame sobre **HTML, CSS, SWIFT**
 
 - 🖥️ SO **MacOS, Windows, Linux/Ubuntu**
 
